@@ -33,7 +33,7 @@ I am in 3rd year B.E in E&Tc from Dr. D. Y. Patil Institute of Engineering & Tec
 
 💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
 
-📄 Resume : https://drive.google.com/file/d/1idQ00NkMvVS-aUzJSZ8jPa51wbPskZ2q/view?usp=sharing
+📄 Resume : https://drive.google.com/file/d/16tRv4pPta6211sQemRxBtSPxx6dX475S/view?usp=sharing
 
 ### Languages and Tools-
 
