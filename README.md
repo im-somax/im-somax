@@ -31,7 +31,7 @@ I am in 3rd year B.E in E&Tc from Dr. D. Y. Patil Institute of Engineering & Tec
 
 ⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
 
-💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
+💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finish people daily. And here you're not even able to pronounce it😂
 
 📄 Resume : https://drive.google.com/file/d/16tRv4pPta6211sQemRxBtSPxx6dX475S/view?usp=sharing
 
