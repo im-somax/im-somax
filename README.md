@@ -2,7 +2,7 @@
 
 ### Hi there 👋 My name is Somesh Patel! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/im-somax/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/im_somax) ![visitors](https://hit-badger.glitch.me/badge?page_id=im-somax.id)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/im-somax/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/im_somax) 
 
 <!--
 **bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
