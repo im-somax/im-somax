@@ -5,7 +5,6 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/im-somax/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/im_somax) 
 
 <!--
-**bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,14 +19,14 @@ Here are some ideas to get you started:
 
 -->
 
-I am in 3rd year B.E in E&Tc from Dr. D. Y. Patil Institute of Engineering & Technology, Pune. I'm a Software   Developer and Computer Programmer with an avid interest in Data Structures, Algorithms, and Optimization. As a core programmer, I love taking challenges and love being part of the solution. 
+I'm a Software   Developer with an avid interest in Data Structures, Algorithms, and Optimization. As a core programmer, I love taking challenges and love being part of the solution. 
  
-
+ 
 🌱 I’m currently exploring: Web Development.
 
-🔭 I’m currently working on : Web design using Gatsby.
+🔭 I’m currently working on : My Problem Solving Skills.
 
-💬 Ask me about: Python , Android development, Web Development , jokes and a good playlist🎧
+💬 Ask me about: Python , Android development, Web Development , series and a good playlist🎧
 
 ⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
 
