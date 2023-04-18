@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm a Software   Developer with an avid interest in Data Structures, Algorithms, and Optimization. As a core programmer, I love taking challenges and love being part of the solution. 
  
  
-🌱 I’m currently exploring: Web Development.
+🌱 I’m currently exploring: Snowflake and DBT fundamentals.
 
 🔭 I’m currently working on : My Problem Solving Skills.
 
